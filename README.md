@@ -4,13 +4,9 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 
 Publication:
 
-Classification of White Blood Cells: A Comprehensive Study Using Transfer Learning Based on Convolutional Neural Networks
-Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation
-Updates:
 
 🔭 I’m currently working as a Machine Learning Scientist at Speechify
-🌱 I’m currently learning TTS.
-👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning
+🌱 I’m currently learning TTS
 
 
 <!--

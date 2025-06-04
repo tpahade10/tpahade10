@@ -5,7 +5,6 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 Publication:
 
 
-🔭 I’m currently working as a Machine Learning Scientist at Speechify
 🌱 I’m currently learning TTS
 
 

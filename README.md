@@ -1,7 +1,19 @@
 ## Hi there 👋
  Tarun Pahade 💻
-I am a deep learning and machine learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
+I am a fullstack developer . Intrestead in web 3 and AI  
 
+Skills 
+Frontend  
+WEB
+React , Next js 
+
+Crossplatform
+Flutter and React native
+
+Backend 
+Express , Node js,  Bun
+
+Docker CICD 
 
 
 
